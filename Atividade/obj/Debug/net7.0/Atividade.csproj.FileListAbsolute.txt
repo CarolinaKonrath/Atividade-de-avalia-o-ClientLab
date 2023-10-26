@@ -1,0 +1,14 @@
+C:\ClientLab\atividade\bin\Debug\net7.0\Atividade.exe
+C:\ClientLab\atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\ClientLab\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\ClientLab\atividade\bin\Debug\net7.0\Atividade.dll
+C:\ClientLab\atividade\bin\Debug\net7.0\Atividade.pdb
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.dll
+C:\ClientLab\atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.pdb
+C:\ClientLab\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\ClientLab\atividade\obj\Debug\net7.0\ref\Atividade.dll
